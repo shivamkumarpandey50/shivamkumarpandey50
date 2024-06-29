@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamkumarpandey50" alt="shivamkumarpandey50" /></a> </p>
 
-- 🔭 I’m currently working on **Youtube clone**
+- 🔭 I’m currently working on **Online Video Player**
 
 - 🌱 I’m currently learning **Sass, React.js, Redux Toolkit, Next.js**
 
