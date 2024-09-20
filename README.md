@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Online Video Player**
 
-- 🌱 I’m currently learning **Sass, React.js, Redux Toolkit, Next.js**
+- 🌱 I’m currently learning **Sass, Bun.js, ElysiaJS, Firebase, Swagger**
 
 - 👨‍💻 All of my projects are available at [https://shivam-pandey-portfolio.netlify.app/](https://shivam-pandey-portfolio.netlify.app/)
 
-- 💬 Ask me about **React.js, JavaScript, HTML, CSS,**
+- 💬 Ask me about **JavaScript, Typescript, HTML, CSS, React.js, Redux Toolkit, Next.js, Bootstrap, Tailwind CSS, Node.js, Express.js, Postman**
 
 - 📫 How to reach me **shivamkumarpandey3971@gmail.com**
 
