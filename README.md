@@ -9,13 +9,11 @@
 
 - 🌱 I’m currently learning **Sass, Bun.js, ElysiaJS, Firebase, Swagger**
 
-- 👨‍💻 All of my projects are available at [https://shivam-pandey-portfolio.netlify.app/](https://shivam-pandey-portfolio.netlify.app/)
-
 - 💬 Ask me about **JavaScript, Typescript, HTML, CSS, React.js, Redux Toolkit, Next.js, Bootstrap, Tailwind CSS, Node.js, Express.js, Postman**
 
 - 📫 How to reach me **shivamkumarpandey3971@gmail.com**
 
-- 📄 Know about my experiences [https://shivam-pandey-portfolio.netlify.app/img/Shivam_Kumar_Pandey_Resume.pdf](https://shivam-pandey-portfolio.netlify.app/img/Shivam_Kumar_Pandey_Resume.pdf)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
